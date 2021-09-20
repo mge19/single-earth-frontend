@@ -1,0 +1,10 @@
+p{
+	font:16px/1.5 "Courier New";
+}
+h3, a {
+	color: #f15b23 !important;
+    font-family: '04b',sans-serif;
+    font-size: 24px;
+    font-weight: 300;
+	text-decoration: none !important;
+}
